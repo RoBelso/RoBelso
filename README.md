@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RoBelso
-- 👀 I’m interested in Game Developement using Unity
-- 🌱 I’m currently learning Game Dev
-- 💞️ I’m looking to collaborate on my life I need friends
+- 👋 Hey, I’m @RoBelso
+- 👀 I'm passionate about Game Developement and am learning lome robotics on the side
+- 🌱 I’m currently using Unity to help develop my games
+- 💞️ I use github as a place to get help on projects and to help others with problems I am able to solve
 - 📫 How to reach me: Gmail: RoiBel99@gmail.com
-
-<!---
-RoBelso/RoBelso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
